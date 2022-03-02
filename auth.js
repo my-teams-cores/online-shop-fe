@@ -1,0 +1,1 @@
+console.log('saya menambahakn auth js misal: rifai')
